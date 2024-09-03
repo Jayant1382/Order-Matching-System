@@ -1,3 +1,5 @@
+![Screenshot (721)](https://github.com/user-attachments/assets/d28eb51f-17f7-46d3-9d9c-dc94c1f6c5ec)
+
 1. Database Design
 Tables Overview
 Pending Orders Table: Stores all the current buy and sell orders that are yet to be matched.
